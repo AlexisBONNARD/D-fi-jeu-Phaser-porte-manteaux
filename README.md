@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-en%20cours-green)
 
 Petit jeu développé avec **Phaser.js** dans le cadre d’un défi de développement.  
-Le projet consiste à créer un jeu 2D interactif autour d’un système d’objets (porte-manteaux) et d’interactions joueur.
+Le projet consiste à créer un jeu 2D interactif autour de l'objets (porte-manteaux) et le tout en 2h.
 
 ---
 
